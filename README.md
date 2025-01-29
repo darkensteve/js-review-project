@@ -1,2 +1,2 @@
-# JavaScript Review Project by Rovic_Steve_Real
+# JavaScript Review Project by Rovic Steve Real
 This project is a review of JavaScript concepts, from beginner to advanced.
